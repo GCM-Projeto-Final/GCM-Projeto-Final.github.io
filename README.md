@@ -3,7 +3,7 @@
 A empresa fictícia IOT-se trabalha com a implementação de internet das coisas em ambientes, garantindo segurança e otimização. 
 
 Acesse o link e visualize o site criado.
-<a href= "https://github.com/GCM-Projeto-Final.github.io">IOT-se</a>
+<a href= "https://gcm-projeto-final.github.io/">IOT-se</a>
 
 O site apresenta os principais planos, de acordo com as necessidades estudadas, e as informações para contato.
 
