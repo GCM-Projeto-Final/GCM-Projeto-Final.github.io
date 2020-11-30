@@ -288,7 +288,19 @@ header.masthead .post-heading .meta a {
   margin: 0 0 10px;
 }
 
+.post-preview > a > .post-subtitle2 {
+  font-weight: 300;
+  margin: 0 0 10px;
+}
+
 .post-preview > .post-meta {
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+  color: #868e96;
+}
+
+.post-preview > .post-meta2 {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
@@ -300,7 +312,17 @@ header.masthead .post-heading .meta a {
   color: #212529;
 }
 
+.post-preview > .post-meta2 > a {
+  text-decoration: none;
+  color: #212529;
+}
+
 .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
+  text-decoration: underline;
+  color: #0085A1;
+}
+
+.post-preview > .post-meta2 > a:focus, .post-preview > .post-meta > a:hover {
   text-decoration: underline;
   color: #0085A1;
 }
